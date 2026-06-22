@@ -101,14 +101,12 @@ All installed within the notebook via pip. Key packages:
 
 ---
 
-## Links
+## Link
 
-- **Demo Video:** [add link here]
-- **Zindi Competition:** [Multilingual Health QA](https://zindi.africa)
-- **Report:** See `Edwin_Bayingana_FinalProject.pdf` in this repository
+- **Zindi Competition:** [Multilingual Health QA]([https://zindi.africa](https://zindi.africa/competitions/multilingual-health-question-answering-in-low-resource-african-languages-challenge))
 
 ---
 
 ## Acknowledgements
 
-Competition dataset provided by Zindi Africa. Pre-trained models sourced from the Hugging Face model hub. This project was completed as the final assessment for ML Techniques I at the African Leadership University.
+Competition dataset provided by Zindi Africa. This project was completed as the final assessment for ML Techniques I at the African Leadership University.
