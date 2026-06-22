@@ -20,11 +20,8 @@ Ten experiments are conducted, progressing from a TF-IDF sparse retrieval baseli
 
 ```
 .
-├── Notebook/
-│   └── health_qa_final.ipynb       # Main Kaggle notebook — all 10 experiments
-├── Submissions/                    # Zindi submission CSV files per experiment
-├── Edwin_Bayingana_FinalProject.docx  # Academic report (Word format)
-├── Edwin_Bayingana_FinalProject.pdf   # Academic report (PDF format)
+├── notebook_multilingual_health_qa.ipynb      # Main Kaggle notebook — all 10 experiments
+├── Submissions/                    # Zindi submission CSV files and screenshots per experiment 
 └── README.md
 ```
 
