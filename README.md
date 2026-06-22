@@ -1,1 +1,0 @@
-# multilingual-health-qa-african-languages
